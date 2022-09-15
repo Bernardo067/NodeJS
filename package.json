@@ -1,0 +1,12 @@
+{
+  "name": "iniciando_com_nodejs",
+  "version": "1.0.0",
+  "description": "Primeiro projeto NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "dev1": "nodemon server.js"
+  },
+  "author": "Bernardo Nalini",
+  "license": "MIT"
+}
